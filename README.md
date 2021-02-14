@@ -1,13 +1,15 @@
 # 爬取纽约时报特定关键词新闻并计数
 ### 2020.12.1更新
 最近发现已经不能使用了，但是可以用来当做学习资料，供初学者学习！
+
 ---
+
 好久没有更新博客了，因为最近的学习笔记实在是不太容易敲键盘，所以改成了手写笔记提高效率。
 昨天晚上听说学弟学妹的python作业是做数据分析，正好闲来无事，那就写个爬虫练练手吧。
 
 所有源代码已经再github开源，如果对您有帮助，请给个star，蟹蟹（嘤嘤嘤）：
 
-[https://github.com/hellopteromyini/Crawling-the-New-York-Times](https://github.com/hellopteromyini/Crawling-the-New-York-Times)
+[https://github.com/hipteromyini/Crawling-the-New-York-Times](https://github.com/hipteromyini/Crawling-the-New-York-Times)
 
 ### 先上效果图
 
@@ -27,5 +29,5 @@
 
 ### 源代码
 
-[github自取](https://github.com/hellopteromyini/Crawling-the-New-York-Times)
+[github自取](https://github.com/hipteromyini/Crawling-the-New-York-Times)
 
